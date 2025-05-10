@@ -18,6 +18,11 @@ UiStyle is a component developed by th using Fast.<br>It provides a range of sty
 
 ![MIT-App](https://github.com/user-attachments/assets/2ef6b10c-1d3f-4d96-9a4d-ba141a7cc1c6)
 ![blocks](https://github.com/user-attachments/assets/10ecbd20-d1f5-47d9-8a59-7a1a6c2a2e88)
+![2](https://github.com/user-attachments/assets/1198408e-e513-4c9e-818e-5b4edb732c43)
+![1](https://github.com/user-attachments/assets/060bfbba-a8b2-43ae-8b95-aae3afaba869)
+![photo_2025-05-10_18-39-18](https://github.com/user-attachments/assets/3bb72cc4-70cf-4b3a-87f4-0e015de686a0)
+![photo_2025-05-10_18-39-01](https://github.com/user-attachments/assets/840f11af-f3f8-4955-9799-c3d29d5557e8)
+![photo_2025-05-10_18-39-23](https://github.com/user-attachments/assets/fd2a974e-e3ef-421d-8ce3-37104219f6fb)
 
 
 ## Blocks
